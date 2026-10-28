@@ -66,7 +66,7 @@ O código está escrito de forma simples, limpa e legível, servindo como ponto 
    dotnet run
    ```
 
-   ou, no Visual Studio, abra a solução `Desafios-CSharp.sln` e pressione **F5**.
+   ou, no Visual Studio, abra a solução `Desafios-CSharp.slnx` e pressione **F5**.
 
 ## 💻 Exemplos de uso
 
@@ -93,7 +93,7 @@ Digite a opção desejada:
 ```
 Desafios-CSharp/
 ├── Desafios-CSharp.csproj
-├── Desafios-CSharp.sln
+├── Desafios-CSharp.slnx
 ├── Program.cs
 ├── Desafios/
 │   ├── CalculadoraImc.cs
